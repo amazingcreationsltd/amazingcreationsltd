@@ -23,30 +23,6 @@
 
 ---
 
-#### 👨‍💻 Programming Languages 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,dart,mysql" /></p>
-
-<br>
-
-#### 🛠️ Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,arduino,postman,figma,anaconda" />
-
-</p>
-#### 💻 Operating Systems
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=windows,linux" />
-
-</p>
-
-
-<br>
-
-
 ### 📊 GitHub Analytics
 
 <div align="center">
