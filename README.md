@@ -35,9 +35,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,arduino,postman,figma,anaconda" />
 
 </p>
-
-<br>
-
 #### 💻 Operating Systems
 
 <p align="left">
@@ -46,13 +43,13 @@
 
 </p>
 
----
+
+<br>
+
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amazingcreationsltd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amazingcreationsltd&theme=tokyonight&hide_border=true"/>
 
@@ -69,10 +66,3 @@
 </div>
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amazingcreationsltd&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
