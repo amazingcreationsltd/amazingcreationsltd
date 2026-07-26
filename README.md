@@ -1,5 +1,4 @@
-<h3>💫 About Me: </h3>
-<h1> Hi👋🏻, I am Debanga Dutta </h1> 
+<h2> Hi👋🏻, I am Debanga Dutta </h2> 
 🔭 Let's Code </ > - together 🔁
 
 <p>I am a Computer Science student, currently developing my technical skills to grow my career.</p>
@@ -27,26 +26,7 @@
 #### 👨‍💻 Programming Languages 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,dart,mysql" /></p>
 
----
-#### ⚡ Frameworks & Libraries
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=,nodejs,tailwind,flutter" />
-
-</p>
-
----
-
-#### ☁️ Cloud & DevOps
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws" />
-
-</p>
-
----
+<br>
 
 #### 🛠️ Tools
 
@@ -56,7 +36,7 @@
 
 </p>
 
----
+<br>
 
 #### 💻 Operating Systems
 
